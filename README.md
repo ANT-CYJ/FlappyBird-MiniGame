@@ -2,7 +2,7 @@
  * @Author: Neo
  * @Date: 2021-05-29 21:28:46
  * @LastEditors: Neo
- * @LastEditTime: 2021-06-05 14:12:24
+ * @LastEditTime: 2021-06-05 14:42:38
  * @Description: file content
 -->
 
@@ -16,7 +16,7 @@
 ## 安装下载
 
 - 下载地址 https://github.com/ANT-CYJ/FlappyBird-MiniGame/releases
-- `npm i XXX`
+- `npm i flappybird-minigame`
 
 ## 快速使用
 

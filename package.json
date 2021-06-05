@@ -1,5 +1,5 @@
 {
-  "name": "FlappyBird-MiniGame",
+  "name": "flappybird-minigame",
   "version": "0.0.1",
   "description": "ES6面向对象编程实现H5版本的FlappyBird，移植到微信小程序运行",
   "scripts": {
