@@ -1,22 +1,22 @@
 {
-  "name": "crowller-ts-node-react",
-  "version": "0.0.2",
-  "description": "React+Node+TS 实现简单的爬虫应用",
+  "name": "FlappyBird-MiniGame",
+  "version": "0.0.1",
+  "description": "ES6面向对象编程实现H5版本的FlappyBird，移植到微信小程序运行",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "example": "http-server -p 8880"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ANT-CYJ/Crowller-TS-Node-React.git"
+    "url": "git+hhttps://github.com/ANT-CYJ/FlappyBird-MiniGame.git"
   },
   "keywords": [
-    "crowller"
+    "game"
   ],
   "author": "Neo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ANT-CYJ/Crowller-TS-Node-React/issues"
+    "url": "https://github.com/ANT-CYJ/FlappyBird-MiniGame/issues"
   },
-  "homepage": "https://github.com/ANT-CYJ/Crowller-TS-Node-React#readme"
+  "homepage": "https://github.com/ANT-CYJ/FlappyBird-MiniGame#readme"
 }
